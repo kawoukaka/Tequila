@@ -1,19 +1,4 @@
-# TEQUILA
-
-## Description
-
-
-# Backend
-
-##
-Start the server
-
-```sh
-uvicorn things_advanced_asgi:app
-```
-
-
-# Frontend
+# frontend
 
 This template should help get you started developing with Vue 3 in Vite.
 
