@@ -19,3 +19,5 @@
 backend/tequila/
 frontend/node_modules/
 frontend/package-lock.json
+
+token

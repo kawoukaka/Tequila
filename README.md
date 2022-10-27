@@ -6,10 +6,16 @@
 # Backend
 
 ##
+install depedencies
+
+```shell
+pip install -r requirements.txt
+```
+##
 Start the server
 
 ```sh
-uvicorn things_advanced_asgi:app
+uvicorn asgi:app
 ```
 
 
