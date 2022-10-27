@@ -1,0 +1,25 @@
+Design an Organization Chart
+
+- Input data structure
+
+Name: string
+position: string
+Manager: string
+team: string
+followers: set of tree objects
+Id:int
+
+Requirements:
+If Manager is none, start a new tree
+Position can be none
+Name can be none
+Team can be none
+followers can be none
+id should be automatically generated, if Insert
+
+
+- Key features
+
+Insert
+Update
+Delete
